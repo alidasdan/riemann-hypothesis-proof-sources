@@ -26,6 +26,7 @@ with a community effort to formalize parts of the argument in Lean.
 - [About Levent Alpöge](#about-levent-alpöge)
 - [Masullo: the proposed proof and formalization](#masullo-the-proposed-proof-and-formalization)
 - [About Alessandro Maria Masullo](#about-alessandro-maria-masullo)
+- [About Terence Tao](#about-terence-tao)
 
 ## Background
 
@@ -152,3 +153,38 @@ the November 2026 announcement.
 - **[Who Is Alessandro Masullo? — Nacionale](https://www.nacionale.com/en/articles/who-is-alessandro-masullo-all-human-riemann-hypothesis-proof-grh-ravi-vakil-stanford)** · Profile\
   A profile of his Stanford training and research background, the release of
   his GRH draft, and the questions raised during its review.
+
+## About Terence Tao
+
+Terence Tao, a Fields Medalist and a leading voice on AI in mathematics, offers
+valuable context for these developments. His earlier, tentative suggestion of
+human–AI progress around 2050 makes a striking companion to the November 2026
+announcement. These interviews are a reminder of how difficult it is to forecast
+the pace of AI-assisted discovery, even with exceptional mathematical expertise.
+His emphasis on collaboration also anticipated a central feature of Alpöge's work.
+
+- **[Terence Tao — Wikipedia](https://en.wikipedia.org/wiki/Terence_Tao)** · Biography\
+  An overview of his life, mathematical contributions, major awards, and views
+  on AI and the formalization of mathematics.
+
+- **[Euler, Navier–Stokes, and the Generalized Riemann Hypothesis — Tao's Blog](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)** · Expert commentary\
+  His November 20 account of three AI-assisted developments, including Alpöge's
+  Lean proof, with links to verification efforts and observations on the work
+  needed to understand the mathematics.
+
+- **[No More Heroes: Terence Tao on AI — Numberphile](https://www.youtube.com/watch?v=bAnwMdfcMVw)** · Full interview\
+  The October 2026 conversation behind the 2050 remark, discussing AI-generated
+  proofs and mathematical understanding. Tao tentatively imagines further progress
+  through humans and AI around 2050; this is speculation rather than a firm deadline.
+
+- **[Tao's Earlier Outlook and the November Announcement — Some Conditions Apply](https://www.youtube.com/shorts/5OIkY1yTQOQ)** · Short video\
+  A retrospective juxtaposing Tao's earlier remarks with the subsequent proof
+  announcement. The full Numberphile interview above provides the broader context.
+
+- **[Why the Riemann Hypothesis Is So Difficult — Lex Clips](https://www.youtube.com/watch?v=FCrtYilXpk0)** · Interview excerpt\
+  Tao explains the obstacles facing familiar proof techniques and his uncertainty
+  about when the problem would be solved, in a June 2025 conversation with Lex Fridman.
+
+- **[Will AI Prove the Riemann Hypothesis Without Understanding It? — Dwarkesh Clips](https://www.youtube.com/watch?v=PU1LMVGcyXA)** · Interview excerpt\
+  A discussion of whether a formal proof would yield human insight, how a large
+  Lean proof might be interpreted, and the promise of humans working with powerful AI tools.
