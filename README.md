@@ -21,6 +21,7 @@ Vakil's subsequent update reports problems in the draft; it remains under review
 with a community effort to formalize parts of the argument in Lean.
 
 - [Background](#background)
+- [About Lean](#about-lean)
 - [Alpöge: the proof and its verification](#alpöge-the-proof-and-its-verification)
 - [About Levent Alpöge](#about-levent-alpöge)
 - [Masullo: the proposed proof and formalization](#masullo-the-proposed-proof-and-formalization)
@@ -50,6 +51,16 @@ the November 2026 announcement.
 - **[The Key to the Riemann Hypothesis — Numberphile](https://www.youtube.com/watch?v=VTveQ1ndH1c)** · Video\
   Jon Keating explores L-functions and why this broader family of functions could
   help illuminate the Riemann Hypothesis.
+
+## About Lean
+
+- **[Lean (Proof Assistant) — Wikipedia](https://en.wikipedia.org/wiki/Lean_(proof_assistant))** · Overview\
+  An introduction to Lean's history, mathematical foundations, libraries, and
+  uses in formalizing mathematics and verifying software.
+
+- **[Lean — Official Website](https://lean-lang.org/)** · Getting started\
+  The project's home page, with examples, learning resources, documentation,
+  and links to its mathematical library and community.
 
 ## Alpöge: the proof and its verification
 
