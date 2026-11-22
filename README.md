@@ -30,8 +30,8 @@ with a community effort to formalize parts of the argument in Lean.
 
 ## Background
 
-These introductions explain the problem and its significance; the videos predate
-the November 2026 announcement.
+These resources explain the problem, its significance, and what an AI-assisted
+proof could mean for mathematics.
 
 - **[Riemann Hypothesis — Wikipedia](https://en.wikipedia.org/wiki/Riemann_hypothesis)**\
   A reference overview of the zeta function, the hypothesis's history, its connection
@@ -52,6 +52,10 @@ the November 2026 announcement.
 - **[The Key to the Riemann Hypothesis — Numberphile](https://www.youtube.com/watch?v=VTveQ1ndH1c)** · Video\
   Jon Keating explores L-functions and why this broader family of functions could
   help illuminate the Riemann Hypothesis.
+
+- **[What If AI Solved the Riemann Hypothesis? | 3Blue1Brown](https://www.youtube.com/watch?v=zqzk43bSdDI)** · Video\
+  Revisits the question of an AI solution in light of the November 2026
+  developments, with links to both Alpöge's and Masullo's announcements.
 
 ## About Lean
 
