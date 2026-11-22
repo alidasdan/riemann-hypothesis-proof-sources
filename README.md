@@ -121,6 +121,10 @@ the November 2026 announcement.
 - **[Who Is Levent Alpöge? — Clarín](https://www.clarin.com/us-news/who-is-levent-alpoge-the-anthropic-mathematician-who-claims-solved-the-riemann-hypothesis-with-claude_0_2WdGvYKBVM.html)** · Profile\
   A profile of his education, research career, and collaboration with Claude.
 
+- **[Who Is Levent Alpöge? | Mint](https://www.livemint.com/ai/artificial-intelligence/who-is-levent-alp-ge-meet-anthropic-s-technical-staff-member-who-solved-the-riemann-hypothesis-with-ai-tool-claude-11795321945858.html)** · Profile\
+  A profile covering his education, academic awards, research, and move to
+  Anthropic, alongside an account of the Claude-assisted proof announcement.
+
 ## Masullo: the proposed proof and formalization
 
 - **[Hurried Announcement: Alessandro Masullo GRH — Ravi Vakil](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)** · Primary announcement\
