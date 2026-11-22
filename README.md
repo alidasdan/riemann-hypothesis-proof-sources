@@ -67,6 +67,15 @@ proof could mean for mathematics.
   The project's home page, with examples, learning resources, documentation,
   and links to its mathematical library and community.
 
+- **[What Mathematicians Should Know About Lean: Reliability and AI | Thomas Hales](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)** · Guest essay on Tao's blog\
+  Explains formalization, AI-assisted translation into Lean, and the reliability
+  of proof checking, including statement audits, kernel bugs, and independent checks.
+
+- **[“…and the Proof Is Checked in Lean” | Xena Project](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)** · Verification guide\
+  Explains four checks behind a trustworthy Lean proof: the intended statement,
+  successful compilation, matching the proved theorem and its axioms, and independent
+  kernel validation. Also distinguishes a checked proof from its written exposition.
+
 ## Alpöge: the proof and its verification
 
 ### Announcement and independent checks
@@ -84,6 +93,11 @@ proof could mean for mathematics.
   Lean proof, including its scope for Dirichlet L-functions.
 
 ### Explanations and discussion
+
+- **[The Riemann Hypothesis Proof, Visually Explained | Academic Comeback](https://www.youtube.com/watch?v=_HUcFfRowIw)** · Video\
+  An independent attempt to explain the argument visually, from prime numbers to
+  theta lifts and formal verification. It follows an AI-generated outline that did
+  not trace every proof step, so some explanations remain provisional.
 
 - **[Proof Guide and Verification — Michael Rubinstein, Waterloo](https://www.math.uwaterloo.ca/~mrubinst/alpoge_claude_grh/)** · Research resources\
   Independent verification results and a working exposition for the Riemann zeta
