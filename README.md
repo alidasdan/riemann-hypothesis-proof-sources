@@ -94,6 +94,17 @@ proof could mean for mathematics.
 
 ### Explanations and discussion
 
+- **[The Lean Proof of RH in Outline | Andrew O'Desky](https://andrewodesky.com/rh/overview.html)** · Proof overview and dependency explorer\
+  A detailed guide connecting the argument to a searchable theorem catalogue,
+  dependency graph, and proof statistics. Statements are restated in ordinary
+  mathematical notation, with links to Lean declarations. The AI-assisted exposition
+  records which statements have been checked and where review remains incomplete.
+
+- **[An 11-Page Map of the Riemann Hypothesis Proof | Dirac](https://www.youtube.com/watch?v=YxMoQ76HgtA)** · Short video\
+  An eight-minute tour of the riemann-rev guide, covering Stepanov's idea,
+  smoothed prime sums, Landau's theorem, and theta lifts. The later arithmetic
+  steps are reported from the guide and have not been reviewed by specialists.
+
 - **[The Riemann Hypothesis Proof, Visually Explained | Academic Comeback](https://www.youtube.com/watch?v=_HUcFfRowIw)** · Video\
   An independent attempt to explain the argument visually, from prime numbers to
   theta lifts and formal verification. It follows an AI-generated outline that did
