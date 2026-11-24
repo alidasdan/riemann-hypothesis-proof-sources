@@ -94,6 +94,10 @@ proof could mean for mathematics.
 
 ### Explanations and discussion
 
+- **[Alpöge's Proof of the Riemann Hypothesis | Wikipedia](https://en.wikipedia.org/wiki/Alp%C3%B6ge%27s_proof_of_the_Riemann_hypothesis)** · Overview\
+  An overview of the proof's development, mathematical ideas, independent Lean
+  verification, and reactions from mathematicians, with references for further reading.
+
 - **[The Lean Proof of RH in Outline | Andrew O'Desky](https://andrewodesky.com/rh/overview.html)** · Proof overview and dependency explorer\
   A detailed guide connecting the argument to a searchable theorem catalogue,
   dependency graph, and proof statistics. Statements are restated in ordinary
